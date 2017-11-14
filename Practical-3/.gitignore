@@ -1,0 +1,6 @@
+*.swp
+*.pyc
+.env/*
+.DS_Store
+*.ipynb_checkpoints
+start_ipython_osx.sh
